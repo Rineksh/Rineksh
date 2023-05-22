@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rinkesh</h1>
-<h3 align="center">I'm based in India</h3>
+<h3 align="center">I'm based in Indi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinkesh375&label=Profile%20views&color=0e75b6&style=flat" alt="rinkesh375" /> </p>
 
